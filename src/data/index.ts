@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Real EState Website",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Discover and explore properties with this modern and responsive Real Estate website. Built with powerful frontend technologies for an engaging user experience.",
     img: "/real-estate.png",
     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://github.com/saqibsattar07/real-estate-website.git",
