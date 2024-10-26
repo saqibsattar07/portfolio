@@ -73,7 +73,7 @@ export const projects = [
   {
     id: 1,
     title: "Real EState Website",
-    des: "Discover and explore properties with this modern and responsive Real Estate website. Built with powerful frontend technologies for an engaging user experience.",
+    des: "Discover your dream home with this modern and responsive Real Estate website, built with Next.js and Tailwind CSS.",
     img: "/real-estate.png",
     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://github.com/saqibsattar07/real-estate-website.git",
