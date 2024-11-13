@@ -78,14 +78,14 @@ export const projects = [
     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://github.com/saqibsattar07/real-estate-website.git",
   },
-  // {
-  //   id: 2,
-  //   title: "Yoom - Video Conferencing App",
-  //   des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-  //   img: "/p2.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-  //   link: "https://github.com/adrianhajdin/zoom-clone",
-  // },
+  {
+    id: 2,
+    title: "Music School",
+    des: "Enhance music learning with interactive lessons, virtual practice rooms, and collaborative sessions for students.",
+    img: "/music-school.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://github.com/saqibsattar07/music-school.git",
+  },
   // {
   //   id: 3,
   //   title: "AI Image SaaS - Canva Application",
