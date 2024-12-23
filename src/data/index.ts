@@ -86,14 +86,14 @@ export const projects = [
     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://github.com/saqibsattar07/music-school.git",
   },
-  // {
-  //   id: 3,
-  //   title: "AI Image SaaS - Canva Application",
-  //   des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-  //   img: "/p3.svg",
-  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-  //   link: "https://github.com/adrianhajdin/ai_saas_app",
-  // },
+  {
+    id: 3,
+    title: "Furniture Website",
+    des: "A modern platform for luxury furniture shopping with a sleek UI and AR tools for immersive experiences.",
+    img: "/e-commerce.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://github.com/saqibsattar07/e-commerce-hackathon.git",
+  },
   // {
   //   id: 4,
   //   title: "Animated Apple Iphone 3D Website",
