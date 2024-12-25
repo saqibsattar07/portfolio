@@ -94,14 +94,14 @@ export const projects = [
     iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://github.com/saqibsattar07/e-commerce-hackathon.git",
   },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-  //   link: "https://github.com/adrianhajdin/iphone",
-  // },
+  {
+    id: 4,
+    title: "My Recipe App Blog",
+    des: "An innovative platform for recipe sharing with a refined UI and smart tools for personalized experiences.",
+    img: "/dynamic-blog.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://github.com/saqibsattar07/dynamic-blog.git",
+  },
 ];
 
 export const testimonials = [
@@ -205,16 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/saqibsattar07"
+    link: "https://github.com/saqibsattar07",
   },
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://x.com/saqib_sattar01"
+    link: "https://x.com/saqib_sattar01",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/saqib-sattar-0317b0272/"
+    link: "https://www.linkedin.com/in/saqib-sattar-0317b0272/",
   },
 ];
